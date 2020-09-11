@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def capitaliser_pays(nom):
-        new_letter = []
+    new_letter = []
     new_name = ''
     for j in range(len(nom)):
         letter_num = ord(nom[j])
